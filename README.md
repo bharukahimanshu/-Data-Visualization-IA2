@@ -6,6 +6,10 @@ Himanshu Bharuka-16010120149.
 
 Kaustubh D. Karkhanis-16010120158.
 
+Please use this link for accessing and viewing our IA
+
+Link: https://public.tableau.com/app/profile/kaustubh.dk/viz/HappinessfacotrIA2/HappinessScore
+
 Screenshots
 We have attached screenshots of all the slides from the IA below:
 ![image](https://user-images.githubusercontent.com/84191694/144633377-174ef622-3a75-4951-a444-a3fe4a63440f.png)
