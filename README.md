@@ -1,5 +1,5 @@
 # -Data-Visualization-IA2
-This is our Data Visualization IA-2. This IA was completed by us in Second Year of Computer Engineering while studying at KJ Somaiya College of Engineering.
+This is our Data Visualization project. It was completed by us in Second Year of Computer Engineering while studying at KJ Somaiya College of Engineering.
 
 
 The dataset that we have taken up from the Kaggle is from the year 2015. The reason why we chose this dataset was basically because of the fact that In today’s time, where everyone is busy in their daily commitments, it would be safe to say that the priority of whether we are happy or not is on the decline but it is something that largely impacts our day to day functioning.
@@ -31,4 +31,4 @@ We have attached screenshots of all the slides from the IA below:
 ![image](https://user-images.githubusercontent.com/84191694/144633756-9f25f63a-e6c6-40be-adbf-24be9030e0a3.png)
 ![image](https://user-images.githubusercontent.com/84191694/144633778-7e3a5cca-fd3c-4ea6-87da-0114baf54308.png)
 
-We completed this IA under the guidance of Prof. Swpanil Pawar and Prof. Vaibhav Vasani. We would like to thank them for the same.
+We completed this project under the guidance of Prof. Swpanil Pawar and Prof. Vaibhav Vasani. We would like to thank them for the same.
