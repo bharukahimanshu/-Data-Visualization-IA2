@@ -1,4 +1,4 @@
-# -Data-Visualization-IA2
+# Data Visualisation
 This is our Data Visualization project. It was completed by us in Second Year of Computer Engineering while studying at KJ Somaiya College of Engineering.
 
 
